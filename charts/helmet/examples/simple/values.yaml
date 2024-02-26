@@ -8,3 +8,5 @@ ports:
 
 ingress:
   enabled: true
+
+# workloadType: "StatefulSet"
